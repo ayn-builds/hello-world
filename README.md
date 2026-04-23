@@ -1,2 +1,2 @@
 # hello-world
-My very first GitHub repo 🚀
+Hi! I'm Ayn and this is my first GitHub project. 🚀
